@@ -6903,7 +6903,7 @@ and connect USB at the same time.</text>
 <text x="160.02" y="60.96" size="1.778" layer="94">JST PH LIPO INPUT</text>
 <text x="170.18" y="55.88" size="1.27" layer="97" align="center">Dynamic VIN selection: VBUS
 (USB) will override VBAT (LIPO)
-via D5 when both are present.</text>
+via D1 when both are present.</text>
 <text x="96.52" y="45.72" size="1.778" layer="97">Dropout Voltage (25°C):
 100mA: ~250/~40mV
 300mA: ~300/~125mV
