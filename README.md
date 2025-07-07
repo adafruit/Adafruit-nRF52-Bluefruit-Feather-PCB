@@ -3,7 +3,9 @@
 PCB files for the Adafruit nRF52 Bluefruit Feather and the Adafruit
 nRF52840 Feather Express.
 
-Format is EagleCAD schematic and board layout
+Format is EagleCAD schematic and board layout.
+
+These boards were designed before we spent effort on low power and are not intended for low power usage.
 
 For more details, check out the product page at
 
